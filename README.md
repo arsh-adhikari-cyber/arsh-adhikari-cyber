@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Arsh! 👋
 
-<!--
-**arsh-adhikari-cyber/arsh-adhikari-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science undergraduate specializing in **Cyber Security** at MIET Jammu. I focus on network engineering, traffic analysis, and building system defense strategies.
 
-Here are some ideas to get you started:
+## 🛡️ What I Do
+* **Network Security:** Working with OSI/TCP-IP models, packet routing, and firewall architectures.
+* **Automation:** Writing Python scripts to automate network scans and routine security workflows.
+* **Localization:** Studying Japanese to bridge the gap between engineering and global tech roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+* **Languages:** Python, Bash
+* **OS:** Linux (Ubuntu/Kali), Windows 11
+* **Tools:** Wireshark, Cisco Packet Tracer, Git/GitHub
+* **Platforms:** TryHackMe, LeetCode
+
+---
+
+## 📈 Goals & Milestones
+- [x] Set up a unified, professional security identity
+- [ ] Complete the TryHackMe 'Pre-Security' pathway
+- [ ] Build an automated local port scanner script in Python
+- [ ] Pass the JLPT N5 Examination
+
+## 📫 Connect with me
+* **Email:** arsh.adhikari.cyber@gmail.com
