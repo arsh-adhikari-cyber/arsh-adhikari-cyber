@@ -5,11 +5,10 @@ I am a Computer Science undergraduate specializing in **Cyber Security** at MIET
 ## 🛡️ What I Do
 * **Network Security:** Working with OSI/TCP-IP models, packet routing, and firewall architectures.
 * **Automation:** Writing Python scripts to automate network scans and routine security workflows.
-* **Localization:** Studying Japanese to bridge the gap between engineering and global tech roles.
 
 ## 🛠️ Tech Stack
 * **Languages:** Python, Bash
-* **OS:** Linux (Ubuntu/Kali), Windows 11
+* **OS:** Kali linux, Windows 11
 * **Tools:** Wireshark, Cisco Packet Tracer, Git/GitHub
 * **Platforms:** TryHackMe, LeetCode
 
